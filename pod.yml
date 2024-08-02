@@ -68,4 +68,5 @@ to start with deployments
 
 
 apply kubeclt create -f <deployment files> will run my pods
+
 apply kubeclt create -f <service files>
